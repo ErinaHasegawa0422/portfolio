@@ -17,7 +17,7 @@ const Section = () => {
                     </p>
             </div>
             <div>
-           <img src="/picture.jpg" alt="Erina Hasegawa" className="w-35 h-85"/>
+           <img src="/picture.jpg" alt="Erina Hasegawa" style={{ maxWidth: '60%', height: 'auto' }}/>
         </div>
         </div>
 
